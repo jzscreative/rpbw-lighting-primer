@@ -277,3 +277,6 @@ footer.site .logo{width:120px;margin-bottom:var(--s5)}
 .type-head{font:500 12px/1.3 var(--font);letter-spacing:.09em;text-transform:uppercase;color:var(--black);border-top:2px solid var(--black);padding-top:var(--s3);margin:var(--s9) 0 var(--s6)}
 .type-head:first-of-type{margin-top:0}
 @media (min-width:1001px){.strip{grid-template-columns:repeat(7,minmax(0,1fr))}}
+
+.topbar .site-title{flex:0 0 auto;font:500 15px/1.2 var(--font);letter-spacing:.01em;text-transform:none;color:var(--black);padding:0;border:0;white-space:nowrap}
+.topbar .site-title:hover{border:0}
