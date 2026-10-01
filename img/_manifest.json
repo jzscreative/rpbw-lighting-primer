@@ -1,0 +1,794 @@
+[
+ {
+  "file": "img/hero-kimbell-dusk.jpg",
+  "w": 1600,
+  "h": 1066,
+  "credit": "",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/6aff3237d9675c087bb017fb35b684981e967db7-1400x933.jpg",
+  "source_page": "https://www.rpbw.com/project/kimbell-art-museum-expansion",
+  "bytes": 247296
+ },
+ {
+  "file": "img/pompidou-aerial.jpg",
+  "w": 1600,
+  "h": 901,
+  "credit": "\u00a9 Michel Denanc\u00e9",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/ea01aaefad3d20a1026c69ad5cb9aa3985a6fa61-1400x788.jpg",
+  "source_page": "https://www.rpbw.com/project/centre-georges-pompidou",
+  "bytes": 341008
+ },
+ {
+  "file": "img/pompidou-section.jpg",
+  "w": 1400,
+  "h": 700,
+  "credit": "\u00a9 FRP / Piano + Rogers",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/18d43af1dfad7753233e2851fa02ffff95bb7e52-1400x700.jpg",
+  "source_page": "https://www.rpbw.com/project/centre-georges-pompidou",
+  "bytes": 125680
+ },
+ {
+  "file": "img/pompidou-piazza.jpg",
+  "w": 900,
+  "h": 1349,
+  "credit": "",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/c8a0ea31ff1bfcbe444c65cc9e74cfaf78c9c791-1400x2099.jpg",
+  "source_page": "https://www.rpbw.com/project/centre-georges-pompidou",
+  "bytes": 233754
+ },
+ {
+  "file": "img/menil-porch.jpg",
+  "w": 1600,
+  "h": 1254,
+  "credit": "",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/1858cd4ec6e903e5027a76e10b33bfd14376e1f1-1400x1097.jpg",
+  "source_page": "https://www.rpbw.com/project/the-menil-collection",
+  "bytes": 319417
+ },
+ {
+  "file": "img/menil-gallery.jpg",
+  "w": 1200,
+  "h": 1200,
+  "credit": "\u00a9 Paul Hester Photography",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/b2312e3b865f951727967d1b6b3398a63f331027-1400x1400.jpg",
+  "source_page": "https://www.rpbw.com/project/the-menil-collection",
+  "bytes": 150116
+ },
+ {
+  "file": "img/menil-sketch-luce.jpg",
+  "w": 473,
+  "h": 700,
+  "credit": "Renzo Piano, 1984. \u00a9 Fondazione Renzo Piano",
+  "image_url": "https://www.fondazionerenzopiano.org/media/project_drawing/594bde792d3ef734042956.jpg",
+  "source_page": "https://www.fondazionerenzopiano.org/en/project/menil-collection/",
+  "bytes": 49475
+ },
+ {
+  "file": "img/menil-section.jpg",
+  "w": 550,
+  "h": 667,
+  "credit": "Piano & Fitzgerald, 1981. \u00a9 Fondazione Renzo Piano",
+  "image_url": "https://www.fondazionerenzopiano.org/media/project_drawing/59f1d62b0842c607513738.jpg",
+  "source_page": "https://www.fondazionerenzopiano.org/en/project/menil-collection/",
+  "bytes": 41273
+ },
+ {
+  "file": "img/menil-light-study.jpg",
+  "w": 641,
+  "h": 550,
+  "credit": "\u00a9 Piano & Fitzgerald, architects / Fondazione Renzo Piano",
+  "image_url": "https://www.fondazionerenzopiano.org/media/project_image/5a54b07f653c3963711576.jpg",
+  "source_page": "https://www.fondazionerenzopiano.org/en/project/menil-collection/",
+  "bytes": 53677
+ },
+ {
+  "file": "img/menil-mockup.jpg",
+  "w": 384,
+  "h": 550,
+  "credit": "Photo Mark Carroll. \u00a9 RPBW",
+  "image_url": "https://www.fondazionerenzopiano.org/media/project_image/5a54c79b5c4d4390009709.jpg",
+  "source_page": "https://www.fondazionerenzopiano.org/en/project/menil-collection/",
+  "bytes": 27178
+ },
+ {
+  "file": "img/menil-leaf-casting.jpg",
+  "w": 759,
+  "h": 550,
+  "credit": "\u00a9 Fondazione Renzo Piano",
+  "image_url": "https://www.fondazionerenzopiano.org/media/project_image/5a54cfb2cc8b6166870318.jpg",
+  "source_page": "https://www.fondazionerenzopiano.org/en/project/menil-collection/",
+  "bytes": 72476
+ },
+ {
+  "file": "img/kansai-roof.jpg",
+  "w": 1600,
+  "h": 1120,
+  "credit": "\u00a9 FRP, ph. Shinkenchiku-sha Co., Ltd.",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/b36394aefd1df02d160654078537c657e3260d56-1400x980.jpg",
+  "source_page": "https://www.rpbw.com/project/kansai-international-airport-terminal",
+  "bytes": 174598
+ },
+ {
+  "file": "img/kansai-section.jpg",
+  "w": 1400,
+  "h": 467,
+  "credit": "\u00a9 FRP",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/8bb326e8428e3eab463d79e20338ca85f0bed04a-1400x467.jpg",
+  "source_page": "https://www.rpbw.com/project/kansai-international-airport-terminal",
+  "bytes": 63502
+ },
+ {
+  "file": "img/kansai-interior.jpg",
+  "w": 900,
+  "h": 1149,
+  "credit": "\u00a9 Viewpictures, ph. Dennis Gilbert",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/bfd9f92ff999de30963406052045c4bd379ac556-1400x1787.jpg",
+  "source_page": "https://www.rpbw.com/project/kansai-international-airport-terminal",
+  "bytes": 189714
+ },
+ {
+  "file": "img/beyeler-dusk.jpg",
+  "w": 1600,
+  "h": 1222,
+  "credit": "",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/04eb4cc863d9f163748f981651f508f887178b9f-1400x1069.jpg",
+  "source_page": "https://www.rpbw.com/project/beyeler-foundation-museum",
+  "bytes": 264558
+ },
+ {
+  "file": "img/beyeler-roof-edge.jpg",
+  "w": 1200,
+  "h": 940,
+  "credit": "\u00a9 Michel Denanc\u00e9",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/6499d34c7b0a19cd909501c8d40ff658a0e0a097-1400x1097.jpg",
+  "source_page": "https://www.rpbw.com/project/beyeler-foundation-museum",
+  "bytes": 142958
+ },
+ {
+  "file": "img/beyeler-gallery.jpg",
+  "w": 1200,
+  "h": 946,
+  "credit": "\u00a9 Michel Denanc\u00e9",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/b013b4cb45497171d00abb294976b51ae181cd34-1400x1103.jpg",
+  "source_page": "https://www.rpbw.com/project/beyeler-foundation-museum",
+  "bytes": 100573
+ },
+ {
+  "file": "img/beyeler-section.jpg",
+  "w": 825,
+  "h": 550,
+  "credit": "RPBW, 1999. \u00a9 Renzo Piano Building Workshop",
+  "image_url": "https://www.fondazionerenzopiano.org/media/project_drawing/5943b9f285f00285041890.jpg",
+  "source_page": "https://www.fondazionerenzopiano.org/en/project/beyeler-foundation-museum/",
+  "bytes": 36112
+ },
+ {
+  "file": "img/beyeler-model.jpg",
+  "w": 817,
+  "h": 550,
+  "credit": "RPBW, 1992. \u00a9 Fondazione Renzo Piano",
+  "image_url": "https://www.fondazionerenzopiano.org/media/project_model/5a589f733b283672736078.jpg",
+  "source_page": "https://www.fondazionerenzopiano.org/en/project/beyeler-foundation-museum/",
+  "bytes": 59865
+ },
+ {
+  "file": "img/beyeler-glass-sheds.jpg",
+  "w": 819,
+  "h": 550,
+  "credit": "\u00a9 Gianni Berengo Gardin",
+  "image_url": "https://www.fondazionerenzopiano.org/media/project_image/5a5881bd50b7c423451622.jpg",
+  "source_page": "https://www.fondazionerenzopiano.org/en/project/beyeler-foundation-museum/",
+  "bytes": 52122
+ },
+ {
+  "file": "img/tjibaou-water.jpg",
+  "w": 1600,
+  "h": 773,
+  "credit": "\u00a9 RPBW / ADCK, ph. John Gollings - Gollings Photography",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/d6032b7e50a3f4dbc2a0680b5091ca711b12001a-1400x676.jpg",
+  "source_page": "https://www.rpbw.com/project/jean-marie-tjibaou-cultural-center",
+  "bytes": 181641
+ },
+ {
+  "file": "img/tjibaou-section.jpg",
+  "w": 1200,
+  "h": 749,
+  "credit": "",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/9ef5f6412723cedf855af78f565c2c887c7fca5a-1400x874.jpg",
+  "source_page": "https://www.rpbw.com/project/jean-marie-tjibaou-cultural-center",
+  "bytes": 107317
+ },
+ {
+  "file": "img/tjibaou-slats.jpg",
+  "w": 900,
+  "h": 1349,
+  "credit": "\u00a9 RPBW / ADCK, ph. Pierre Alain Pantz",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/bb648f54629d6977214480615d0e3af19767a502-1400x2099.jpg",
+  "source_page": "https://www.rpbw.com/project/jean-marie-tjibaou-cultural-center",
+  "bytes": 202783
+ },
+ {
+  "file": "img/nyt-night.jpg",
+  "w": 1600,
+  "h": 1070,
+  "credit": "\u00a9 Michel Denanc\u00e9",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/574e2a3bc01a24144cf73aa87b7d8a3c5f6ddc0d-1400x936.jpg",
+  "source_page": "https://www.rpbw.com/project/the-new-york-times-building",
+  "bytes": 426726
+ },
+ {
+  "file": "img/nyt-rods.jpg",
+  "w": 900,
+  "h": 1200,
+  "credit": "",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/353bb84e6270393d840f450c7ed51c17204666ce-1400x1866.jpg",
+  "source_page": "https://www.rpbw.com/project/the-new-york-times-building",
+  "bytes": 197114
+ },
+ {
+  "file": "img/nyt-facade-section.jpg",
+  "w": 900,
+  "h": 1273,
+  "credit": "\u00a9 RPBW Section detail drawing New York Times Building typical floor",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/85b69fc5504368b7a936c6aa59479ef863d63c33-1400x1980.jpg",
+  "source_page": "https://www.rpbw.com/project/the-new-york-times-building",
+  "bytes": 74216
+ },
+ {
+  "file": "img/nyt-lobby.jpg",
+  "w": 1200,
+  "h": 893,
+  "credit": "",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/52259dc5cc510f3f07cf40418172e4ebd5376a96-1400x1042.jpg",
+  "source_page": "https://www.rpbw.com/project/the-new-york-times-building",
+  "bytes": 197272
+ },
+ {
+  "file": "img/cas-roof.jpg",
+  "w": 1600,
+  "h": 1071,
+  "credit": "\u00a9 RPBW, ph. Shunji Ishida",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/674be4f2a2d5db23d53682336cdf86bb105591c6-1400x937.jpg",
+  "source_page": "https://www.rpbw.com/project/california-academy-of-sciences",
+  "bytes": 450851
+ },
+ {
+  "file": "img/cas-skylights.jpg",
+  "w": 1200,
+  "h": 674,
+  "credit": "\u00a9 RPBW, ph. Justin Lee",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/93ec332752ef7bbe753277952bae86ca787f5441-1393x783.jpg",
+  "source_page": "https://www.rpbw.com/project/california-academy-of-sciences",
+  "bytes": 194396
+ },
+ {
+  "file": "img/cas-dome.jpg",
+  "w": 1200,
+  "h": 856,
+  "credit": "\u00a9 Tim Griffith Photographer",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/eb5d4b4b752fdab888f687cbf25b4efd93c0ef6c-1400x998.jpg",
+  "source_page": "https://www.rpbw.com/project/california-academy-of-sciences",
+  "bytes": 226345
+ },
+ {
+  "file": "img/shard-dusk.jpg",
+  "w": 1600,
+  "h": 1221,
+  "credit": "\u00a9 Richard Brine",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/2ff587b10907a4e0326ed2752089fea5cc5ab96b-1400x1068.jpg",
+  "source_page": "https://www.rpbw.com/project/the-shard-london-bridge-tower",
+  "bytes": 166015
+ },
+ {
+  "file": "img/shard-fog.jpg",
+  "w": 900,
+  "h": 1349,
+  "credit": "\u00a9 Michel Denanc\u00e9",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/af3ea0fd3505576067926a14e119e1ad1338459b-1400x2099.jpg",
+  "source_page": "https://www.rpbw.com/project/the-shard-london-bridge-tower",
+  "bytes": 51852
+ },
+ {
+  "file": "img/kimbell-gallery.jpg",
+  "w": 1600,
+  "h": 1066,
+  "credit": "\u00a9 Nic Lehoux",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/e0efad24bf383e4580b1a7d5f3e00492d6365e20-1400x933.jpg",
+  "source_page": "https://www.rpbw.com/project/kimbell-art-museum-expansion",
+  "bytes": 153197
+ },
+ {
+  "file": "img/kimbell-section.jpg",
+  "w": 1400,
+  "h": 990,
+  "credit": "\u00a9 RPBW Details on Foundation website Kimbell Art Museum",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/60c38735d2da5879e506b64c389377b3e5964b63-1400x990.jpg",
+  "source_page": "https://www.rpbw.com/project/kimbell-art-museum-expansion",
+  "bytes": 112036
+ },
+ {
+  "file": "img/kimbell-lobby.jpg",
+  "w": 1200,
+  "h": 800,
+  "credit": "\u00a9 Nic Lehoux",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/142257a39c345f1624e2bcabe3dc4f51c1d817b4-1400x933.jpg",
+  "source_page": "https://www.rpbw.com/project/kimbell-art-museum-expansion",
+  "bytes": 168505
+ },
+ {
+  "file": "img/kimbell-night-roof.jpg",
+  "w": 900,
+  "h": 1350,
+  "credit": "\u00a9 Nic Lehoux",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/0daeb71757e99d4b148da7d0e4f9c3148b73b23c-1400x2100.jpg",
+  "source_page": "https://www.rpbw.com/project/kimbell-art-museum-expansion",
+  "bytes": 150136
+ },
+ {
+  "file": "img/whitney-street.jpg",
+  "w": 1600,
+  "h": 1563,
+  "credit": "\u00a9 Karin Jobst",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/c3bc9b1df99462caec46ae90d5c2dd68330e839c-1400x1368.jpg",
+  "source_page": "https://www.rpbw.com/project/the-whitney-museum-of-american-art-at-gansevoort",
+  "bytes": 377520
+ },
+ {
+  "file": "img/whitney-gallery.jpg",
+  "w": 1200,
+  "h": 800,
+  "credit": "\u00a9 Nic Lehoux",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/363c60baca1d9b3583be34d3be249fbd603bced4-1400x934.jpg",
+  "source_page": "https://www.rpbw.com/project/the-whitney-museum-of-american-art-at-gansevoort",
+  "bytes": 143267
+ },
+ {
+  "file": "img/whitney-terrace.jpg",
+  "w": 1200,
+  "h": 800,
+  "credit": "",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/49a7ac437ccab855f820b635636dc334d6e2df2d-1400x934.jpg",
+  "source_page": "https://www.rpbw.com/project/the-whitney-museum-of-american-art-at-gansevoort",
+  "bytes": 139506
+ },
+ {
+  "file": "img/snfcc-canopy-dusk.jpg",
+  "w": 1600,
+  "h": 1067,
+  "credit": "\u00a9 Michel Denanc\u00e9",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/d3ee8baf9e8f1b3f9aa90debe0ee6367850c42d3-1400x934.jpg",
+  "source_page": "https://www.rpbw.com/project/stavros-niarchos-foundation-cultural-center",
+  "bytes": 237007
+ },
+ {
+  "file": "img/snfcc-canopy-section.jpg",
+  "w": 1400,
+  "h": 990,
+  "credit": "\u00a9 RPBW",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/8859abec3d21825d5940a868ba37bb876eb0f52f-1400x990.jpg",
+  "source_page": "https://www.rpbw.com/project/stavros-niarchos-foundation-cultural-center",
+  "bytes": 137751
+ },
+ {
+  "file": "img/snfcc-reading-room.jpg",
+  "w": 1200,
+  "h": 900,
+  "credit": "\u00a9 Michel Denanc\u00e9",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/cb7646ca72d15662e0b849968c87f1470bb5c90b-1400x1050.jpg",
+  "source_page": "https://www.rpbw.com/project/stavros-niarchos-foundation-cultural-center",
+  "bytes": 218458
+ },
+ {
+  "file": "img/snfcc-pv.jpg",
+  "w": 1200,
+  "h": 800,
+  "credit": "\u00a9 Michel Denanc\u00e9",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/7a5b109951c5879e9579ab7ee41d34cae693728a-1400x933.jpg",
+  "source_page": "https://www.rpbw.com/project/stavros-niarchos-foundation-cultural-center",
+  "bytes": 178400
+ },
+ {
+  "file": "img/nasher-gallery.jpg",
+  "w": 1200,
+  "h": 800,
+  "credit": "",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/715898c6372ba5fd428f695eb25ca22a575e5910-1400x933.jpg",
+  "source_page": "https://www.rpbw.com/project/the-nasher-sculpture-center",
+  "bytes": 174735
+ },
+ {
+  "file": "img/nasher-oculi.jpg",
+  "w": 900,
+  "h": 600,
+  "credit": "\u00a9 Michel Denanc\u00e9",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/b9acaf3bd51650ffcf6800ca5abc43ec4da3ddad-1400x933.jpg",
+  "source_page": "https://www.rpbw.com/project/the-nasher-sculpture-center",
+  "bytes": 60600
+ },
+ {
+  "file": "img/nasher-section.jpg",
+  "w": 1200,
+  "h": 1036,
+  "credit": "\u00a9 RPBW",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/4b58d7495cd4ea6a84ad58f7283d8881c381f2c1-1400x1208.jpg",
+  "source_page": "https://www.rpbw.com/project/the-nasher-sculpture-center",
+  "bytes": 77486
+ },
+ {
+  "file": "img/high-gallery.jpg",
+  "w": 1200,
+  "h": 761,
+  "credit": "\u00a9 Michel Denanc\u00e9",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/e9d35fd1bdfdabf61865d88ae9783bac4cd88562-1400x888.jpg",
+  "source_page": "https://www.rpbw.com/project/high-museum-expansion",
+  "bytes": 130351
+ },
+ {
+  "file": "img/high-section.jpg",
+  "w": 1400,
+  "h": 790,
+  "credit": "",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/3b02ef16b0e3511e4504a7325e8ead4d70f7636c-1400x790.jpg",
+  "source_page": "https://www.rpbw.com/project/high-museum-expansion",
+  "bytes": 107980
+ },
+ {
+  "file": "img/high-scoops.jpg",
+  "w": 900,
+  "h": 1246,
+  "credit": "\u00a9 Michel Denanc\u00e9",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/ffa118ec1c2aef9cc49fe8c0d120bc9773e57550-1400x1938.jpg",
+  "source_page": "https://www.rpbw.com/project/high-museum-expansion",
+  "bytes": 71492
+ },
+ {
+  "file": "img/zpk-gallery.jpg",
+  "w": 1200,
+  "h": 800,
+  "credit": "\u00a9 Michel Denanc\u00e9",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/fd59e0b83cd25e97b9212fa09396447a8fe73338-1400x933.jpg",
+  "source_page": "https://www.rpbw.com/project/zentrum-paul-klee",
+  "bytes": 109381
+ },
+ {
+  "file": "img/zpk-section.jpg",
+  "w": 1600,
+  "h": 310,
+  "credit": "\u00a9 RPBW",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/b98f657ff6f8783bb25e55234015a672f118953a-1400x271.jpg",
+  "source_page": "https://www.rpbw.com/project/zentrum-paul-klee",
+  "bytes": 59742
+ },
+ {
+  "file": "img/morgan-roof.jpg",
+  "w": 1200,
+  "h": 776,
+  "credit": "\u00a9 Michel Denanc\u00e9",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/f3ad5268bb11409ba4a751c30329e4f1c8803e9e-1400x905.jpg",
+  "source_page": "https://www.rpbw.com/project/renovation-and-expansion-of-the-morgan-library",
+  "bytes": 202467
+ },
+ {
+  "file": "img/morgan-section.jpg",
+  "w": 1200,
+  "h": 788,
+  "credit": "\u00a9 RPBW",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/f7a3d26acd0cc2fcb9fb7e30fcb632c2a460836a-1400x919.jpg",
+  "source_page": "https://www.rpbw.com/project/renovation-and-expansion-of-the-morgan-library",
+  "bytes": 127326
+ },
+ {
+  "file": "img/lacma-resnick.jpg",
+  "w": 1200,
+  "h": 800,
+  "credit": "\u00a9 Nic Lehoux",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/123da46912200f535d656dfb66398f979ca200ba-1400x933.jpg",
+  "source_page": "https://www.rpbw.com/project/lacma-expansion",
+  "bytes": 112402
+ },
+ {
+  "file": "img/lacma-roof-detail.jpg",
+  "w": 1400,
+  "h": 967,
+  "credit": "\u00a9 RPBW Details on Foundation website LACMA Expansion",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/619b00483edbe1a9459edd04582b6d5979fab16d-1400x967.jpg",
+  "source_page": "https://www.rpbw.com/project/lacma-expansion",
+  "bytes": 147142
+ },
+ {
+  "file": "img/lacma-sawtooth.jpg",
+  "w": 1200,
+  "h": 800,
+  "credit": "\u00a9 Nic Lehoux",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/8376c493ab8696b88b7e81bdc6f3342561fd1d9f-1400x933.jpg",
+  "source_page": "https://www.rpbw.com/project/lacma-expansion",
+  "bytes": 213521
+ },
+ {
+  "file": "img/aic-interior.jpg",
+  "w": 1200,
+  "h": 800,
+  "credit": "",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/ad3839c55a78cb4c875f27693c8596e56801c1bc-1400x934.jpg",
+  "source_page": "https://www.rpbw.com/project/the-art-institute-of-chicago",
+  "bytes": 181028
+ },
+ {
+  "file": "img/aic-blade-detail.jpg",
+  "w": 1200,
+  "h": 1186,
+  "credit": "\u00a9 RPBW",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/8c9cb014011bb49e8ab7592d7f9c985fc283c8ac-1400x1384.jpg",
+  "source_page": "https://www.rpbw.com/project/the-art-institute-of-chicago",
+  "bytes": 153138
+ },
+ {
+  "file": "img/aic-blade-models.jpg",
+  "w": 900,
+  "h": 681,
+  "credit": "\u00a9 RPBW",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/d2c68d0656ac7e4c52e53a133892d43aefdf5bea-1400x1060.jpg",
+  "source_page": "https://www.rpbw.com/project/the-art-institute-of-chicago",
+  "bytes": 31553
+ },
+ {
+  "file": "img/aic-park.jpg",
+  "w": 1200,
+  "h": 803,
+  "credit": "\u00a9 The Art Institute of Chicago, ph. James Iska Photography",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/454016828af785ae319c8cb47a85d3ee6d7790a8-1400x937.jpg",
+  "source_page": "https://www.rpbw.com/project/the-art-institute-of-chicago",
+  "bytes": 166342
+ },
+ {
+  "file": "img/harvard-courtyard.jpg",
+  "w": 1200,
+  "h": 1518,
+  "credit": "\u00a9 Nic Lehoux",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/5d308137566fb7ebd37afba2a89e055a39f5df03-1400x1771.jpg",
+  "source_page": "https://www.rpbw.com/project/harvard-art-museums-renovation-and-expansion",
+  "bytes": 294287
+ },
+ {
+  "file": "img/harvard-section.jpg",
+  "w": 1400,
+  "h": 990,
+  "credit": "\u00a9 RPBW",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/e24287d65416ee3f0f835aa430085dfc0af00838-1400x990.jpg",
+  "source_page": "https://www.rpbw.com/project/harvard-art-museums-renovation-and-expansion",
+  "bytes": 143510
+ },
+ {
+  "file": "img/harvard-lab.jpg",
+  "w": 1200,
+  "h": 800,
+  "credit": "",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/e82a63c6a2c79e808d5724706b30f4137051167a-1400x934.jpg",
+  "source_page": "https://www.rpbw.com/project/harvard-art-museums-renovation-and-expansion",
+  "bytes": 194952
+ },
+ {
+  "file": "img/academy-dome.jpg",
+  "w": 1200,
+  "h": 900,
+  "credit": "\u00a9 Nic Lehoux",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/b4f6e208ce3f0942db7d7dcf63e5865c806ee97e-5280x3960.jpg",
+  "source_page": "https://www.rpbw.com/project/academy-museum-of-motion-pictures",
+  "bytes": 260224
+ },
+ {
+  "file": "img/academy-section.jpg",
+  "w": 1400,
+  "h": 661,
+  "credit": "\u00a9 RPBW",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/f417396cf24b1be120eed19136f5b03707508a0d-1400x661.jpg",
+  "source_page": "https://www.rpbw.com/project/academy-museum-of-motion-pictures",
+  "bytes": 124528
+ },
+ {
+  "file": "img/ooeli-water.jpg",
+  "w": 1600,
+  "h": 1069,
+  "credit": "\u00a9 Maxime Laurent",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/d337a3984c855ac004f8adcfdd5fba1a9ddebf57-1400x935.jpg",
+  "source_page": "https://www.rpbw.com/project/the-ooeli-complex",
+  "bytes": 422965
+ },
+ {
+  "file": "img/ooeli-shades.jpg",
+  "w": 1200,
+  "h": 802,
+  "credit": "",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/34fe0ecdb79c9a3ebb9eef926b50e3977ee41129-1400x935.jpg",
+  "source_page": "https://www.rpbw.com/project/the-ooeli-complex",
+  "bytes": 121388
+ },
+ {
+  "file": "img/amiens-dusk.jpg",
+  "w": 1600,
+  "h": 1007,
+  "credit": "\u00a9 Michel Denanc\u00e9",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/35b6b757e932b2071baac48c7a2796b74db05dbb-1400x881.jpg",
+  "source_page": "https://www.rpbw.com/project/citadel-university-campus",
+  "bytes": 235476
+ },
+ {
+  "file": "img/amiens-night.jpg",
+  "w": 1200,
+  "h": 1061,
+  "credit": "\u00a9 Michel Denanc\u00e9",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/3ebb7a713b009f19655f4132eac171779b429d9d-1400x1238.jpg",
+  "source_page": "https://www.rpbw.com/project/citadel-university-campus",
+  "bytes": 267392
+ },
+ {
+  "file": "img/piano-portrait.jpg",
+  "w": 900,
+  "h": 900,
+  "credit": "",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/8ee69f3906d97f8a8c1d5e0144b236a299c8140e-1400x1400.png",
+  "source_page": "https://www.rpbw.com/people/renzo-piano",
+  "bytes": 140300
+ },
+ {
+  "file": "img/rome-hall.jpg",
+  "w": 1400,
+  "h": 957,
+  "credit": "\u00a9 Moreno Maggi",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/7d07524f8443fcb54c9eea18a1215f6f16d7ae48-1400x957.jpg",
+  "source_page": "https://www.rpbw.com/project/parco-della-musica-auditorium",
+  "bytes": 233311
+ },
+ {
+  "file": "img/rome-cavea-night.jpg",
+  "w": 1200,
+  "h": 782,
+  "credit": "\u00a9 Moreno Maggi",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/88099e0bd9e46924982df1241e1b315da6838557-1400x912.jpg",
+  "source_page": "https://www.rpbw.com/project/parco-della-musica-auditorium",
+  "bytes": 203551
+ },
+ {
+  "file": "img/rome-hall-section.jpg",
+  "w": 1400,
+  "h": 621,
+  "credit": "\u00a9 RPBW, ph. PUBLIFOTO Genova",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/9df3391019a1bffbb2746f6783dbad6df2e9e396-1400x621.jpg",
+  "source_page": "https://www.rpbw.com/project/parco-della-musica-auditorium",
+  "bytes": 145648
+ },
+ {
+  "file": "img/laquila-night.jpg",
+  "w": 900,
+  "h": 1350,
+  "credit": "\u00a9 Marco Caselli_Nirmal",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/28e33264b302f00e1b1058243b9a01cb5e472171-907x1360.jpg",
+  "source_page": "https://www.rpbw.com/project/auditorium-del-parco",
+  "bytes": 217770
+ },
+ {
+  "file": "img/laquila-hall.jpg",
+  "w": 1200,
+  "h": 800,
+  "credit": "\u00a9 RPBW",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/6ec9c6ef53d11cc4e7740922b93f62b0712a979e-1587x1058.jpg",
+  "source_page": "https://www.rpbw.com/project/auditorium-del-parco",
+  "bytes": 188519
+ },
+ {
+  "file": "img/forum-auditorium.jpg",
+  "w": 1200,
+  "h": 900,
+  "credit": "\u00a9 Nic Lehoux",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/74490f3e70471c242c455e3368d7d95e6b666a15-1600x1200.jpg",
+  "source_page": "https://www.rpbw.com/project/the-forum",
+  "bytes": 165936
+ },
+ {
+  "file": "img/forum-night.jpg",
+  "w": 1200,
+  "h": 900,
+  "credit": "\u00a9 Nic Lehoux",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/6d4c5b4b1c5cde15267bf2cac8f3b4810a2f6d02-3743x2807.jpg",
+  "source_page": "https://www.rpbw.com/project/the-forum",
+  "bytes": 137752
+ },
+ {
+  "file": "img/forum-section.jpg",
+  "w": 1400,
+  "h": 1058,
+  "credit": "\u00a9 RPBW",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/5b78a993b1502d29cace70242f1d900b665028d5-1600x1209.jpg",
+  "source_page": "https://www.rpbw.com/project/the-forum",
+  "bytes": 159164
+ },
+ {
+  "file": "img/trento-void.jpg",
+  "w": 1600,
+  "h": 1179,
+  "credit": "\u00a9 Enrico Cano",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/ed44d2cc8e0e73e319a9f00d5f9a7e7077eb3540-1600x1179.jpg",
+  "source_page": "https://www.rpbw.com/project/university-library",
+  "bytes": 278248
+ },
+ {
+  "file": "img/trento-section.jpg",
+  "w": 1400,
+  "h": 1003,
+  "credit": "\u00a9 RPBW",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/fc9a739ad8eb054cb91de93b657cd4a1d03e901d-1600x1146.jpg",
+  "source_page": "https://www.rpbw.com/project/university-library",
+  "bytes": 221711
+ },
+ {
+  "file": "img/hermes-night.jpg",
+  "w": 900,
+  "h": 1056,
+  "credit": "",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/c8ad49d61bd0297a23cbaaae9ed93e7bd28d1675-1400x1643.jpg",
+  "source_page": "https://www.rpbw.com/project/maison-hermes",
+  "bytes": 285936
+ },
+ {
+  "file": "img/hermes-blocks.jpg",
+  "w": 1200,
+  "h": 922,
+  "credit": "\u00a9 Michel Denanc\u00e9",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/3fc8e69ad036fea87b94024d973f8a220e57deef-1400x1076.jpg",
+  "source_page": "https://www.rpbw.com/project/maison-hermes",
+  "bytes": 406232
+ },
+ {
+  "file": "img/hermes-facade-section.jpg",
+  "w": 900,
+  "h": 1299,
+  "credit": "\u00a9 RPBW",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/ec5e9ddda55aa478285c921df316c0be867bc71e-1400x2020.jpg",
+  "source_page": "https://www.rpbw.com/project/maison-hermes",
+  "bytes": 129558
+ },
+ {
+  "file": "img/paddington-cube.jpg",
+  "w": 1200,
+  "h": 923,
+  "credit": "",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/c30fb196207777fd309272c1b934d7720507754d-1400x1077.jpg",
+  "source_page": "https://www.rpbw.com/project/paddington-square",
+  "bytes": 277269
+ },
+ {
+  "file": "img/paddington-fins.jpg",
+  "w": 900,
+  "h": 1311,
+  "credit": "\u00a9 RPBW",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/26b6921fd8d6114cec1ce53bbff650dd7cdb410c-1400x2039.jpg",
+  "source_page": "https://www.rpbw.com/project/paddington-square",
+  "bytes": 283341
+ },
+ {
+  "file": "img/krause-night.jpg",
+  "w": 1400,
+  "h": 934,
+  "credit": "\u00a9 Michel Denanc\u00e9",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/2bb17219dcdd0b85279d7a1126e46163221ace41-1400x934.jpg",
+  "source_page": "https://www.rpbw.com/project/krause-gateway-center",
+  "bytes": 146812
+ },
+ {
+  "file": "img/krause-mockup.jpg",
+  "w": 1200,
+  "h": 900,
+  "credit": "\u00a9 RPBW",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/293c680c081054a9dc60092052cb03186bb7805a-1400x1050.jpg",
+  "source_page": "https://www.rpbw.com/project/krause-gateway-center",
+  "bytes": 190884
+ },
+ {
+  "file": "img/krause-section.jpg",
+  "w": 1400,
+  "h": 846,
+  "credit": "\u00a9 RPBW",
+  "image_url": "https://cdn.sanity.io/images/zi3g9jaq/production/5b9c1d258ec058a900a1f723e945766f20c4403e-1400x846.jpg",
+  "source_page": "https://www.rpbw.com/project/krause-gateway-center",
+  "bytes": 136844
+ }
+]
