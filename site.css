@@ -278,5 +278,22 @@ footer.site .logo{width:120px;margin-bottom:var(--s5)}
 .type-head:first-of-type{margin-top:0}
 @media (min-width:1001px){.strip{grid-template-columns:repeat(7,minmax(0,1fr))}}
 
+/* 01 overview, sized to one laptop screen */
+section.tldr{padding:var(--s5) 0 var(--s5)}
+.tldr .sec-head{margin-bottom:var(--s4)}
+.tldr .sec-head h2{font-size:clamp(26px,2.6vw,34px)}
+.tldr-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:var(--s6);align-items:start}
+.tldr .tldr-bio{font-size:17px;line-height:1.55;margin:0 0 var(--s5);max-width:none}
+.tldr .lede .note{font-size:14px;line-height:1.5;color:var(--grey-dark);margin-top:var(--s5)}
+.tldr blockquote.pq p{font-size:clamp(19px,1.7vw,22px)}
+.tldr .record li{font-size:14.5px;line-height:1.45;padding:6px 0}
+.tldr .short-path{margin-top:var(--s4);font-size:15px;gap:var(--s1) var(--s4)}
+@media (max-width:900px){.tldr-grid{grid-template-columns:1fr;gap:var(--s5)}}
+section.block{scroll-margin-top:60px}
+.tldr .tl-label{margin:var(--s5) 0 var(--s2)}
+.tldr .lede .src{margin-top:var(--s3);font-size:12px;line-height:1.5}
+.tldr div>.tl-label:first-child{margin-top:0}
+.tldr .note{font-size:14px;line-height:1.5;color:var(--grey-dark);margin-top:var(--s4)}
+
 .topbar .site-title{flex:0 0 auto;font:500 15px/1.2 var(--font);letter-spacing:.01em;text-transform:none;color:var(--black);padding:0;border:0;white-space:nowrap}
 .topbar .site-title:hover{border:0}
